@@ -23,3 +23,6 @@ debug
 
 # Tensorboard Logs
 tensorboard/
+
+# Saved Models
+*.pkl
