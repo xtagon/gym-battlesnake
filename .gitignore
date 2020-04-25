@@ -20,3 +20,6 @@ gym_battlesnake.egg-info
 .DS_Store
 coverage.txt
 debug
+
+# Tensorboard Logs
+tensorboard/
